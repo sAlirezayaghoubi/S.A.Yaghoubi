@@ -1,5 +1,8 @@
 ### Hi there 👋
-im Armin also known az Alireza
+Im Seyedalireza Yaghobi also known a Armin 
+I got my bachelor degree on Computer Science (MEng) @ Shahid Beheshti University and currently working as software engineer (FullStack) @ OmidTech Company https://omidtech.ir 
+- 📫 How to reach me: seyedalirezayaghobi@outlook.com
+
 <!--
 **armiinygh/armiinygh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
